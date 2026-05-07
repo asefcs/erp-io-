@@ -1,0 +1,6 @@
+{
+  "name": "Nova ERP",
+  "description": "Unified Enterprise Resource Planning platform with Finance, CRM, Supply Chain, Project Hub, and HR & Talent modules powered by strategic AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Dashboard", "inventory", "finance", "hr", "analytics"]
+}
